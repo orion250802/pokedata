@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1,
+    "name": "Sofía Martínez",
+    "photo": "https://raw.githubusercontent.com/orion250802/pokedata/main/images/sofia.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Carlos Gómez",
+    "photo": "https://raw.githubusercontent.com/orion250802/pokedata/main/images/pikachu.jpg"
+  }
+]
