@@ -1,12 +1,27 @@
 [
   {
     "id": 1,
-    "name": "Sofía Martínez",
-    "photo": "https://raw.githubusercontent.com/orion250802/pokedata/main/images/sofia.jpg"
+    "name": "Bulbasaur",
+    "photo": "https://raw.githubusercontent.com/orion250802/pokedata/main/images/Bulbasaur.png",
+    "descripction": "https://raw.githubusercontent.com/orion250802/pokedata/main/images/Bulbasaur-data.png",
+     "tipo": "Planta - Veneno",
+     "evolution":"https://raw.githubusercontent.com/orion250802/pokedata/main/images/Bulbasaur-evo.png"
+    
   },
   {
     "id": 2,
-    "name": "Carlos Gómez",
-    "photo": "https://raw.githubusercontent.com/orion250802/pokedata/main/images/pikachu.jpg"
+    "name": "Ivysaur",
+    "photo": "https://raw.githubusercontent.com/orion250802/pokedata/main/images/Ivysaur.png",
+    "descripction":"https://raw.githubusercontent.com/orion250802/pokedata/main/images/Ivysaur-data.png",
+    "tipo": "Planta - Veneno",
+    "evolution":"https://raw.githubusercontent.com/orion250802/pokedata/main/images/Ivysaur-evo.png"
+  },
+    {
+    "id": 3,
+    "name": "Venusaur",
+    "photo": "https://raw.githubusercontent.com/orion250802/pokedata/main/images/Venusaur.png",
+     "descripction":"https://raw.githubusercontent.com/orion250802/pokedata/main/images/Venusaur-data.png",
+     "tipo": "Planta - Veneno",
+     "evolution":"https://raw.githubusercontent.com/orion250802/pokedata/main/images/Venusaur-evo.png"
   }
 ]
