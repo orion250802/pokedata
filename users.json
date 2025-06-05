@@ -5,7 +5,7 @@
     "photo": "https://raw.githubusercontent.com/orion250802/pokedata/main/images/Bulbasaur.png",
     "descripction": "https://raw.githubusercontent.com/orion250802/pokedata/main/images/Bulbasaur-data.png",
      "tipo": "Planta - Veneno",
-     "evolution":"https://raw.githubusercontent.com/orion250802/pokedata/main/images/Bulbasaur-evo.png"
+     "evolution":"https://raw.githubusercontent.com/orion250802/pokedata/main/images/Ivysaur-evo.png"
     
   },
   {
@@ -22,6 +22,82 @@
     "photo": "https://raw.githubusercontent.com/orion250802/pokedata/main/images/Venusaur.png",
      "descripction":"https://raw.githubusercontent.com/orion250802/pokedata/main/images/Venusaur-data.png",
      "tipo": "Planta - Veneno",
-     "evolution":"https://raw.githubusercontent.com/orion250802/pokedata/main/images/Venusaur-evo.png"
+     "evolution":"https://raw.githubusercontent.com/orion250802/pokedata/main/images/Ivysaur-evo.png"
+  },
+   {
+    "id": 4,
+    "name": "Charmander",
+    "photo": "https://raw.githubusercontent.com/orion250802/pokedata/main/images/Charmander.png",
+    "descripction":"https://raw.githubusercontent.com/orion250802/pokedata/main/images/Charmander-data.png",
+    "tipo": "Fuego",
+    "evolution":"https://raw.githubusercontent.com/orion250802/pokedata/main/images/Charmeleon-evo.png"
+  },
+  {
+    "id": 5,
+    "name": "Charmeleon",
+    "photo": "https://raw.githubusercontent.com/orion250802/pokedata/main/images/Charmeleon.png",
+    "descripction":"https://raw.githubusercontent.com/orion250802/pokedata/main/images/Charmeleon-data.png",
+    "tipo": "Fuego",
+    "evolution":"https://raw.githubusercontent.com/orion250802/pokedata/main/images/Charmeleon-evo.png"
+  },
+  {
+    "id": 6,
+    "name": "Charizard",
+    "photo": "https://raw.githubusercontent.com/orion250802/pokedata/main/images/Charizard.png",
+    "descripction":"https://raw.githubusercontent.com/orion250802/pokedata/main/images/Charizard-data.png",
+    "tipo": "Fuego - Volador",
+    "evolution":"https://raw.githubusercontent.com/orion250802/pokedata/main/images/Charmeleon-evo.png"
+  },
+   {
+    "id": 7,
+    "name": "Squirtle",
+    "photo": "https://raw.githubusercontent.com/orion250802/pokedata/main/images/Squirtle.png",
+    "descripction":"https://raw.githubusercontent.com/orion250802/pokedata/main/images/Squirtle-data.png",
+    "tipo": "Agua",
+    "evolution":"https://raw.githubusercontent.com/orion250802/pokedata/main/images/Squirtle-evo.png"
+  },
+     {
+    "id": 8,
+    "name": "Wartortle",
+    "photo": "https://raw.githubusercontent.com/orion250802/pokedata/main/images/Wartortle.png",
+    "descripction":"https://raw.githubusercontent.com/orion250802/pokedata/main/images/Wartortle-data.png",
+    "tipo": "Agua",
+    "evolution":"https://raw.githubusercontent.com/orion250802/pokedata/main/images/Squirtle-evo.png"
+  },
+    {
+    "id": 9,
+    "name": "Blastoise",
+    "photo": "https://raw.githubusercontent.com/orion250802/pokedata/main/images/Blastoise.png",
+    "descripction":"https://raw.githubusercontent.com/orion250802/pokedata/main/images/Blastoise-data.png",
+    "tipo": "Agua",
+    "evolution":"https://raw.githubusercontent.com/orion250802/pokedata/main/images/Squirtle-evo.png"
+  },
+  {
+
+  "id": 10,
+    "name": "Kanto",
+    "photo": "https://raw.githubusercontent.com/orion250802/pokedata/main/images/Kanto.png"
+  
+  },
+   {
+
+  "id": 10,
+    "name": "Archi7",
+    "photo": "https://raw.githubusercontent.com/orion250802/pokedata/main/images/Archi7.jpg"
+  },
+   {
+
+  "id": 10,
+    "name": "Archi7",
+    "photo": "https://raw.githubusercontent.com/orion250802/pokedata/main/images/Archi7.jpg"
+  },
+    {
+
+  "id": 10,
+    "name": "Johto",
+    "photo": "https://raw.githubusercontent.com/orion250802/pokedata/main/images/Johto.png"
   }
+
+
+
 ]
