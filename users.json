@@ -79,53 +79,70 @@
     "id": 10,
     "name": "Caterpie",
     "photo": "https://raw.githubusercontent.com/orion250802/pokedata/main/images/Caterpie.png",
-    "descripction":"https://raw.githubusercontent.com/orion250802/pokedata/main/images/Blastoise-data.png",
-    "tipo": "Agua",
-    "evolution":"https://raw.githubusercontent.com/orion250802/pokedata/main/images/Squirtle-evo.png"
+    "descripction":"https://raw.githubusercontent.com/orion250802/pokedata/main/images/Caterpie-data.png",
+    "tipo": "Bicho",
+    "evolution":"https://raw.githubusercontent.com/orion250802/pokedata/main/images/Caterpie-evo.png"
+  },
+  {
+    "id": 11,
+    "name": "Metapod",
+    "photo": "https://raw.githubusercontent.com/orion250802/pokedata/main/images/Metapod.png",
+    "descripction":"https://raw.githubusercontent.com/orion250802/pokedata/main/images/Metapod-data.png",
+    "tipo": "Bicho",
+    "evolution":"https://raw.githubusercontent.com/orion250802/pokedata/main/images/Caterpie-evo.png"
+  },
+
+  {
+    "id": 12,
+    "name": "Butterfree",
+    "photo": "https://raw.githubusercontent.com/orion250802/pokedata/main/images/Butterfree.png",
+    "descripction":"https://raw.githubusercontent.com/orion250802/pokedata/main/images/Butterfree-data.png",
+    "tipo": "Bicho-Volador",
+    "evolution":"https://raw.githubusercontent.com/orion250802/pokedata/main/images/Caterpie-evo.png"
   },
 
 
   
   {
 
-  "id": 14,
+  "id": 13,
     "name": "Kanto",
     "photo": "https://raw.githubusercontent.com/orion250802/pokedata/main/images/Kanto.png"
   
   },
    {
 
-  "id": 15,
+  "id": 14,
     "name": "Archi7",
     "photo": "https://raw.githubusercontent.com/orion250802/pokedata/main/images/Archi7.jpg"
   },
     {
 
-  "id": 16,
+  "id": 15,
     "name": "Johto",
     "photo": "https://raw.githubusercontent.com/orion250802/pokedata/main/images/Johto.png"
   },
 {
 
-  "id": 17,
+  "id": 16,
     "name": "Hoenn",
     "photo": "https://raw.githubusercontent.com/orion250802/pokedata/main/images/Hoenn.png"
   },
 {
 
-  "id": 18,
+  "id": 17,
     "name": "Sinnoh",
     "photo": "https://raw.githubusercontent.com/orion250802/pokedata/main/images/Sinnoh.png"
   }
 {
 
-  "id": 19,
+  "id": 18,
     "name": "Teselia",
     "photo": "https://raw.githubusercontent.com/orion250802/pokedata/main/images/Teselia.png"
   },
 {
 
-  "id": 20,
+  "id": 19,
     "name": "Kalos",
     "photo": "https://raw.githubusercontent.com/orion250802/pokedata/main/images/Kalos.png"
   }
