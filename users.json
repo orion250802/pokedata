@@ -145,7 +145,53 @@
   "id": 19,
     "name": "Kalos",
     "photo": "https://raw.githubusercontent.com/orion250802/pokedata/main/images/Kalos.png"
+  },
+  {
+
+  "id": 20,
+    "name": "Mega-Venusaur",
+    "photo": "https://raw.githubusercontent.com/orion250802/pokedata/main/images/Mega-Venusaur.png"
+  },
+  {
+
+  "id": 21,
+    "name": "Mega-Charizard-X",
+    "photo": "https://raw.githubusercontent.com/orion250802/pokedata/main/images/Mega-Charizard_X.png"
+  },
+  {
+
+  "id": 22,
+    "name": "Mega-Charizard-Y",
+    "photo": "https://raw.githubusercontent.com/orion250802/pokedata/main/images/Mega-Charizard_Y.png"
+  },
+    {
+
+  "id": 23,
+    "name": "Mega-Blastoise",
+    "photo": "https://raw.githubusercontent.com/orion250802/pokedata/main/images/Mega-Blastoise.png"
+  },
+    {
+
+  "id": 24,
+    "name": " Venusaur-Gigamax",
+    "photo": "https://raw.githubusercontent.com/orion250802/pokedata/main/images/Venusaur_Gigamax.png"
+  },
+    {
+
+  "id": 25,
+    "name": " Charizard-Gigamax.",
+    "photo": "https://raw.githubusercontent.com/orion250802/pokedata/main/images/Charizard_Gigamax.png"
+  },
+    {
+
+  "id": 25,
+    "name": "Blastoise-Gigamax",
+    "photo": "https://raw.githubusercontent.com/orion250802/pokedata/main/images/Blastoise_Gigamax.png"
   }
+  
+  
+
+  
 
 
 ]
