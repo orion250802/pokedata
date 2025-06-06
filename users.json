@@ -72,32 +72,63 @@
     "tipo": "Agua",
     "evolution":"https://raw.githubusercontent.com/orion250802/pokedata/main/images/Squirtle-evo.png"
   },
+
+
+
+  {
+    "id": 10,
+    "name": "Caterpie",
+    "photo": "https://raw.githubusercontent.com/orion250802/pokedata/main/images/Caterpie.png",
+    "descripction":"https://raw.githubusercontent.com/orion250802/pokedata/main/images/Blastoise-data.png",
+    "tipo": "Agua",
+    "evolution":"https://raw.githubusercontent.com/orion250802/pokedata/main/images/Squirtle-evo.png"
+  },
+
+
+  
   {
 
-  "id": 10,
+  "id": 14,
     "name": "Kanto",
     "photo": "https://raw.githubusercontent.com/orion250802/pokedata/main/images/Kanto.png"
   
   },
    {
 
-  "id": 11,
+  "id": 15,
     "name": "Archi7",
     "photo": "https://raw.githubusercontent.com/orion250802/pokedata/main/images/Archi7.jpg"
   },
     {
 
-  "id": 12,
+  "id": 16,
     "name": "Johto",
     "photo": "https://raw.githubusercontent.com/orion250802/pokedata/main/images/Johto.png"
+  },
+{
+
+  "id": 17,
+    "name": "Hoenn",
+    "photo": "https://raw.githubusercontent.com/orion250802/pokedata/main/images/Hoenn.png"
+  },
+{
+
+  "id": 18,
+    "name": "Sinnoh",
+    "photo": "https://raw.githubusercontent.com/orion250802/pokedata/main/images/Sinnoh.png"
   }
+{
 
+  "id": 19,
+    "name": "Teselia",
+    "photo": "https://raw.githubusercontent.com/orion250802/pokedata/main/images/Teselia.png"
+  },
+{
 
-
-
-
-
-
+  "id": 20,
+    "name": "Kalos",
+    "photo": "https://raw.githubusercontent.com/orion250802/pokedata/main/images/Kalos.png"
+  }
 
 
 ]
